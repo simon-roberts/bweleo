@@ -1,23 +1,23 @@
 ---
-title: Introduction to Java
+title: English for Hospitality and Tourism
 ---
 
-Sep 28
-: [Java & Git](#)
+Nov 6
+: [Introduction to Hotels](#)
   : [1.1](#)
 
-Sep 29
-: **Section**{: .label .label-purple }[Intro to Java](#)
+Nov 7
+: **Tutorial**{: .label .label-purple }[Jobs and Responsibilities](#)
   : [Solution](#)
 
-Sep 30
-: [Variables & Objects](#)
+Nov 8
+: [](#)
   : [1.2](#), [2.1](#)
 
-Oct 1
-: **Lab**{: .label .label-purple } [Intro to Java](#)
+Nov 9
+: **Practice**{: .label .label-purple } [Health and Safety](#)
 
-Oct 2
-: [Tracing, IntLists, & Recursion](#)
+Nov 10
+: [Dealing with Conflict](#)
   : [2.1](#)
-: **HW 1 due**{: .label .label-red }
+: **Submit Homework via Whatsapp**{: .label .label-red }
