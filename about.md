@@ -16,7 +16,7 @@ description: >-
 
 ---
 
-## Why Zanzibaris Should English? 
+## Why Should Zanzibaris Learn English? 
 
 *Gain More Opportunities, Acquire International Skills, and Achieve Greater Success*
 
