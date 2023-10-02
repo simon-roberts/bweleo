@@ -8,32 +8,43 @@ seo:
   name: Just the Class
 ---
 
-# Just the Class
+# About - English
+Karibu! (Welcome!)
 
-Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for:
+Bweleo Youth Training Center, founded in 2023 by the Ministry of Youth, is a beacon of hope and opportunity for the vibrant youth of Bweleo, Zanzibar. Our center stands as a testament to our unwavering commitment to equipping young individuals with the tools they need to unlock their full potential and shape their futures.
 
-- [announcements](announcements.md),
-- a [course calendar](calendar.md),
-- a [staff](staff.md) page,
-- and a weekly [schedule](schedule.md).
+Our Mission:
+At Bweleo Youth Training Center, our mission is to empower the youth of our community by providing them with comprehensive skill-based training. We believe in nurturing talent and potential, fostering a spirit of entrepreneurship, and encouraging innovation. Through our diverse range of courses, including tailoring and metal fabrication, as well as upcoming offerings in English, bookkeeping, and IT, we aim to create a generation of self-reliant individuals who can thrive in an ever-changing world.
 
-Just the Class is a template that extends the popular [Just the Docs](https://github.com/just-the-docs/just-the-docs) theme, which provides a robust and thoroughly-tested foundation for your website. Just the Docs include features such as:
+Why Choose Us?
+- Ministry-Endorsed Excellence: As a center founded by the Ministry of Youth, we bring with us a seal of quality and commitment to our mission.
+- Skilled Instructors: Our dedicated instructors are experts in their fields, passionate about passing on their knowledge to the next generation.
+- Holistic Development: We focus not only on imparting technical skills but also on nurturing soft skills, entrepreneurship, and a growth mindset.
+- Community Impact: We envision Bweleo, Zanzibar, as a hub of self-reliance and innovation, and our center plays a pivotal role in making this vision a reality.
 
-- automatic [navigation structure](https://just-the-docs.github.io/just-the-docs/docs/navigation-structure/),
-- instant, full-text [search](https://just-the-docs.github.io/just-the-docs/docs/search/) and page indexing,
-- and a set of [UI components](https://just-the-docs.github.io/just-the-docs/docs/ui-components) and authoring [utilities](https://just-the-docs.github.io/just-the-docs/docs/utilities).
+Join us on this exciting journey of self-discovery and empowerment. Together, we will build a brighter future for Bweleo's youth and contribute to the economic growth and prosperity of our beloved community. Karibu Bweleo Youth Training Center!
 
-## Getting Started
+Tunakuletea Mafanikio! (We Bring Success to You!)
 
-Getting started with Just the Class is simple.
+## Taarifa - Kiswahili
+Kuhusu Sisi:
 
-1. Create a [new repository based on Just the Class](https://github.com/kevinlin1/just-the-class/generate).
-1. Update `_config.yml` and `README.md` with your course information. [Be sure to update the url and baseurl](https://mademistakes.com/mastering-jekyll/site-url-baseurl/).
-1. Configure a [publishing source for GitHub Pages](https://help.github.com/en/articles/configuring-a-publishing-source-for-github-pages). Your course website is now live!
-1. Edit and create `.md` [Markdown files](https://guides.github.com/features/mastering-markdown/) to add more content pages.
+Kituo cha Mafunzo ya Vijana cha Bweleo
 
-Just the Class has been used by instructors at Stanford University ([CS 161](https://stanford-cs161.github.io/winter2021/)), UC Berkeley ([Data 100](https://ds100.org/fa21/)), UC Santa Barbara ([CSW8](https://ucsb-csw8.github.io/s22/)), Northeastern University ([CS4530/5500](https://neu-se.github.io/CS4530-CS5500-Spring-2021/)), and Carnegie Mellon University ([17-450/17-950](https://cmu-crafting-software.github.io/)). Share your course website and find more examples in the [show and tell discussion](https://github.com/kevinlin1/just-the-class/discussions/categories/show-and-tell)!
+Karibu! (Karibu!)
 
-### Local development environment
+Kituo cha Mafunzo ya Vijana cha Bweleo, kilichoundwa mwaka 2023 na Wizara ya Vijana, ni ishara ya matumaini na fursa kwa vijana wenye uchangamfu wa Bweleo, Zanzibar. Kituo chetu kinaonesha dhamira yetu isiyoshindwa ya kuwajengea vijana zana wanazohitaji kufikia uwezo wao kamili na kuunda mustakabali wao.
 
-Just the Class requires no special Jekyll plugins and can run on GitHub Pages' standard Jekyll compiler. To setup a local development environment, clone your template repository and follow the GitHub Docs on [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll).
+Dhamira Yetu:
+Katika Kituo cha Mafunzo ya Vijana cha Bweleo, dhamira yetu ni kuwawezesha vijana wa jamii yetu kwa kuwapa mafunzo kamili ya stadi. Tunaamini katika kuendeleza vipaji na uwezekano, kukuza roho ya ujasiriamali, na kuchochea uvumbuzi. Kupitia mfululizo wetu wa kozi mbalimbali, ikiwa ni pamoja na ujasiri na kutengeneza vitu vya metali, pamoja na ofa zinazokuja za Kiingereza, uhasibu, na IT, lengo letu ni kuleta kizazi cha watu wenye uwezo wa kujitegemea ambao wanaweza kufanikiwa katika ulimwengu unaobadilika kila mara.
+
+Kwa Nini Kutuchagua?
+- Uakisi wa Wizara: Kama kituo kilichoundwa na Wizara ya Vijana, tunaleta dhamana ya ubora na ujitoleaji kwa dhamira yetu.
+- Walimu Wenye Ujuzi: Walimu wetu waliojitolea ni wataalamu katika fani zao, wakijitolea kuwasilisha maarifa yao kwa kizazi kijacho.
+- Maendeleo ya Kina: Tunazingatia si tu kuwapa ujuzi wa kiufundi bali pia kuendeleza ujuzi wa kibinafsi, ujasiriamali, na mtazamo wa kukua.
+- Athari kwa Jamii: Tunauona Bweleo, Zanzibar, kama kitovu cha kujitegemea na uvumbuzi, na kituo chetu kinacheza jukumu muhimu katika kufanya wazo hili kuwa ukweli.
+
+Jiunge nasi katika safari hii ya kusisimua ya kugundua na kujipatia nguvu. Pamoja, tutajenga mustakabali wa kung'aa kwa vijana wa Bweleo na kuchangia katika ukuaji na ustawi wa kiuchumi wa jamii yetu yenye upendo. Karibu Bweleo Youth Training Center!
+
+Tunakuletea Mafanikio! (Tunakuletea Mafanikio Kwako!)
+
