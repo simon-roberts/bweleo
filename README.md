@@ -7,8 +7,9 @@ seo:
   type: Course
   name: Just the Class
 ---
+# Bweleo Youth Training Center
 
-# About - English
+## About - English
 Karibu! (Welcome!)
 
 Bweleo Youth Training Center, founded in 2023 by the Ministry of Youth, is a beacon of hope and opportunity for the vibrant youth of Bweleo, Zanzibar. Our center stands as a testament to our unwavering commitment to equipping young individuals with the tools they need to unlock their full potential and shape their futures.
@@ -31,7 +32,7 @@ Kuhusu Sisi:
 
 Kituo cha Mafunzo ya Vijana cha Bweleo
 
-Karibu! (Karibu!)
+Karibu!
 
 Kituo cha Mafunzo ya Vijana cha Bweleo, kilichoundwa mwaka 2023 na Wizara ya Vijana, ni ishara ya matumaini na fursa kwa vijana wenye uchangamfu wa Bweleo, Zanzibar. Kituo chetu kinaonesha dhamira yetu isiyoshindwa ya kuwajengea vijana zana wanazohitaji kufikia uwezo wao kamili na kuunda mustakabali wao.
 
@@ -46,5 +47,4 @@ Kwa Nini Kutuchagua?
 
 Jiunge nasi katika safari hii ya kusisimua ya kugundua na kujipatia nguvu. Pamoja, tutajenga mustakabali wa kung'aa kwa vijana wa Bweleo na kuchangia katika ukuaji na ustawi wa kiuchumi wa jamii yetu yenye upendo. Karibu Bweleo Youth Training Center!
 
-Tunakuletea Mafanikio! (Tunakuletea Mafanikio Kwako!)
-
+Tunakuletea Mafanikio!
