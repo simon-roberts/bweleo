@@ -3,7 +3,7 @@ name: Simon Roberts
 role: Instructor
 email: simonneilroberts@gmail.com
 website: https://yci.org
-photo: headshot.jpg
+photo: simon.jpg
 meta:
   Office Hours: N/A
 ---
