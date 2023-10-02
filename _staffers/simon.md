@@ -1,6 +1,6 @@
 ---
 name: Simon Roberts
-role: YCI Social Entrepreneurship Fellow
+role: Instructor
 email: simonneilroberts@gmail.com
 website: https://yci.org
 photo: simon.jpg
