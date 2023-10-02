@@ -4,8 +4,8 @@ title: Just the Class
 nav_exclude: true
 permalink: /:path/
 seo:
-  type: Course
-  name: Just the Class
+  type: Youth Center
+  name: Bweleo
 ---
 # Bweleo Youth Training Center
 
@@ -28,10 +28,6 @@ Join us on this exciting journey of self-discovery and empowerment. Together, we
 Tunakuletea Mafanikio! (We Bring Success to You!)
 
 ## Taarifa - Kiswahili
-Kuhusu Sisi:
-
-Kituo cha Mafunzo ya Vijana cha Bweleo
-
 Karibu!
 
 Kituo cha Mafunzo ya Vijana cha Bweleo, kilichoundwa mwaka 2023 na Wizara ya Vijana, ni ishara ya matumaini na fursa kwa vijana wenye uchangamfu wa Bweleo, Zanzibar. Kituo chetu kinaonesha dhamira yetu isiyoshindwa ya kuwajengea vijana zana wanazohitaji kufikia uwezo wao kamili na kuunda mustakabali wao.
