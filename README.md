@@ -46,3 +46,7 @@ Kwa Nini Kutuchagua?
 Jiunge nasi katika safari hii ya kusisimua ya kugundua na kujipatia nguvu. Pamoja, tutajenga mustakabali wa kung'aa kwa vijana wa Bweleo na kuchangia katika ukuaji na ustawi wa kiuchumi wa jamii yetu yenye upendo. Karibu Bweleo Youth Training Center!
 
 Tunakuletea Mafanikio!
+
+## Map | Ramani
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3965.7324218509575!2d39.28858997590714!3d-6.2988493116492394!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x185cdfc67190a563%3A0x6dfaa1ed6cb8f7bf!2sBweleo!5e0!3m2!1sen!2stz!4v1696322554589!5m2!1sen!2stz" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
