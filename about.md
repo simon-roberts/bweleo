@@ -62,5 +62,6 @@ Kwa kumalizia, kujifunza Kiingereza kunaweza kuwa na faida kubwa sana kwa watu w
 
 ## Resources | Rasilimali
 - [Jifunze Kiingereza](https://www.youtube.com/playlist?list=PLCMMRIYgA8Z8wv8aryS3c7dJ574A4vVSP)!
+- [English for Swahili Speakers](assets/documents/english-for-swahili-speakers.pdf)
 
 
