@@ -61,6 +61,6 @@ Kujifunza Kiingereza kutakusaidia kuwasiliana na watu kutoka sehemu mbalimbali z
 Kwa kumalizia, kujifunza Kiingereza kunaweza kuwa na faida kubwa sana kwa watu wa Zanzibar. Inaweza kuongeza fursa za ajira katika sekta ya utalii, kutoa ufikiaji wa maarifa na teknolojia, na kuimarisha uwezo wa mawasiliano na watu wa kimataifa. Kuwekeza katika kujifunza Kiingereza ni uwekezaji katika mustakabali wako na ustawi wa jamii yako.
 
 ## Resources | Rasilimali
-- [Jufinze Kiingereza](https://www.youtube.com/playlist?list=PLCMMRIYgA8Z8wv8aryS3c7dJ574A4vVSP)!
-- More coming soon!
+- [Jifunze Kiingereza](https://www.youtube.com/playlist?list=PLCMMRIYgA8Z8wv8aryS3c7dJ574A4vVSP)!
+
 
