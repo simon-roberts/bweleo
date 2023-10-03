@@ -9,6 +9,8 @@ seo:
 ---
 # Bweleo Youth Training Center
 
+![Youth Training Center Exterior](/bweleo/assets/images/bytc_(1).JPG)
+
 ## About - English
 Karibu! (Welcome!)
 
