@@ -8,6 +8,8 @@ seo:
   name: Bweleo
 ---
 
-# Gallery 
+# Gallery
 
-Photos from the youth training center
+Photos from the youth training center - more coming soon!
+
+{% include image-gallery.html folder="/assets/images/sheila_1" %}
