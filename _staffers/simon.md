@@ -8,4 +8,4 @@ meta:
   Office Hours: N/A
 ---
 
-[Schedule an appointment](#){: .btn .btn-outline }
+[WhatsApp](https://wa.me/255719470492){: .btn .btn-outline }

@@ -8,4 +8,4 @@ meta:
   Office Hours: N/A
 ---
 
-[WhatsApp](https://wa.me/<number>){: .btn .btn-outline }
+[WhatsApp](https://wa.me/255716940909){: .btn .btn-outline }
