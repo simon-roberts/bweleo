@@ -1,6 +1,6 @@
 ---
 name: Simon Roberts
-role: Instructor
+role: Volunteer
 email: simonneilroberts@gmail.com
 website: https://yci.org
 photo: simon.jpg
