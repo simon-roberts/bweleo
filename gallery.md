@@ -13,3 +13,5 @@ seo:
 Photos from the youth training center - more coming soon!
 
 {% include image-gallery.html folder="/assets/images/sheila_1" %}
+
+{% include image-gallery.html folder="/assets/images/sheila_2" %}
